@@ -1,0 +1,6 @@
+Linux is an operating system.
+Processes are managed by the kernel.
+A process has a PID and a parent process ID.
+Linux provides process information through the proc filesystem.
+Processes can communicate using pipes and signals.
+This sample file is useful for testing keyword search.
